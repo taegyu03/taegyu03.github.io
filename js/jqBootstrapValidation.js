@@ -8,7 +8,6 @@
  * http://ReactiveRaven.github.com/jqBootstrapValidation/
  */
 
-START BOOTSTRAP
 
 (function( $ ){
 
