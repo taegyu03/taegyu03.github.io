@@ -6,7 +6,8 @@
 
 ## 나의 스킬
 
-university - 한남대학교 
+university - [한남대학교](https://www.hannam.ac.kr/kor/main/)
+
 본 전공 : [ai융합학과](https://ai.hannam.ac.kr/) - 다전공 : [컴퓨터공학과](https://ce.hannam.ac.kr/)
 * ai융합학과에서 배운 ai 기술과 컴공에서 배우는 프로그래밍 기술을 접목해서 다양한 분야에 응용가능
 사용하는 프로그래밍 언어
